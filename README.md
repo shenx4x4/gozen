@@ -32,7 +32,7 @@
 ```bash
 pkg update && pkg upgrade
 pkg install golang git
-git clone https://github.com/[USER]/gozen
+git clone https://github.com/shenx4x4/gozen
 cd gozen
 go build main.go
 ./main
